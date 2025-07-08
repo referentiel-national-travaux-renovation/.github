@@ -103,11 +103,15 @@ flowchart LR
 
 - [Phase 1 - La compréhension du domaine](../domain). On ne parle pas de code, mais de métier. Quel périmètre de travaux ? Quelles définitions des travaux ? Quelles données utiles pour l'usager ? Pour les acteurs des travaux ? Pour le suivi des politiques publiques ? Qui pour les collecter, les modifier ? Avec quelles règles ?
 
-- [Phase 2 - La représentation du domaine](../docs). On transpose la compréhension du métier en documentation technique : Modèles de données, règles de cohérence, parcours utilisateurs, interfaces, schémas API, règles de sécurité...
+- [Phase 2 - La documentation technique](../specs). On transpose la compréhension du métier en documentation technique : Modèles de données, règles de cohérence, parcours utilisateurs, interfaces, schémas API, règles de sécurité...
 
 - [Phase 3 - L'intégration](../integration). Comment utiliser le RNT comme source d'informations de référence pour les travaux de rénovation énergétique ?
 
-- [Phase 4 - Le développement](../codebase). On code, on teste, on déploie.
+- Phase 4 - Le développement. On code, on teste, on déploie :
+  - [Documentation](https://github.com/referentiel-national-travaux-renovation/documentation)
+  - [API](https://github.com/referentiel-national-travaux-renovation/api)
+  - [Plateforme](https://github.com/referentiel-national-travaux-renovation/app)
+  - [Open data](https://github.com/referentiel-national-travaux-renovation/opendata)
 
 ## 🧩 Ressources
 
